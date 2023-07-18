@@ -1,0 +1,3 @@
+This repo contains the code for Automatic DA Learning using Bilevel Optimization for Histopathological Images paper.
+
+The code is an adaptation of the [base code](https://github.com/ElementAI/bilevel_augment) used for [Learning data augmentation with online bilevel optimization for image classification](https://openaccess.thecvf.com/content/WACV2021/html/Mounsaveng_Learning_Data_Augmentation_With_Online_Bilevel_Optimization_for_Image_Classification_WACV_2021_paper.html) and extends it with histological images dataset.
